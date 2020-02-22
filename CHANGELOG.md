@@ -1,3 +1,27 @@
+# 2.4.3 (Sat Feb 22 2020)
+
+:tada: This release contains work from new contributors! :tada:
+
+Thanks for all your work!
+
+:heart: Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+:heart: Pavlos Vinieratos ([@pvinis](https://github.com/pvinis))
+
+#### ⚠️  Pushed to master
+
+- more releases  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- aha  ([@pvinis](https://github.com/pvinis))
+- Merge branch 'master' of github.com:react-native-community/hooks  ([@pvinis](https://github.com/pvinis))
+- Revert "move config out"  ([@pvinis](https://github.com/pvinis))
+
+#### Authors: 2
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- Pavlos Vinieratos ([@pvinis](https://github.com/pvinis))
+
+---
+
 # v2.4.2 (Sat Feb 22 2020)
 
 #### 🐛  Bug Fix
