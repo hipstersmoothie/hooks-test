@@ -4,8 +4,10 @@
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
-    "prepare": "yarn build",
     "build": "tsc",
     "test": "jest",
     "lint": "eslint src/**/*.ts",
